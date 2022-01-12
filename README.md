@@ -5,3 +5,4 @@ Databse System Design includes<br/>
 -ER Diagram<br/>
 -Relational Diagram<br/>
 -Functional Dependency Diagram for Normalization<br/>
+-SQL Queries
