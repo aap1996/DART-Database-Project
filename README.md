@@ -1,4 +1,4 @@
-# DART-Database-Project
+# Database-Project
 
 Databse System Design includes<br/>
 -SQL File containing actual database<br/>
